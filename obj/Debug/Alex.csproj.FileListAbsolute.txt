@@ -1,0 +1,7 @@
+C:\GIT\Alex\bin\Debug\Alex.exe.config
+C:\GIT\Alex\bin\Debug\Alex.exe
+C:\GIT\Alex\bin\Debug\Alex.pdb
+C:\GIT\Alex\obj\Debug\Alex.csprojAssemblyReference.cache
+C:\GIT\Alex\obj\Debug\Alex.csproj.CoreCompileInputs.cache
+C:\GIT\Alex\obj\Debug\Alex.exe
+C:\GIT\Alex\obj\Debug\Alex.pdb
